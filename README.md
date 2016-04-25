@@ -17,4 +17,10 @@ Development
 * Edit files in `src` director, browser will auto reload changes made into `src` folder
 * For template tags see [Swig Document](http://paularmstrong.github.io/swig/docs/tags)
 
-More to come...
+Technologies 
+---
+
+* Node js
+* Gulp
+* Less
+
